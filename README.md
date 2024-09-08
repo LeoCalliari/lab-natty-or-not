@@ -15,12 +15,11 @@ Então fui testar o LEONARDO.AI e utilizei praticamente o o mesmo prompt inicial
 ## 🚀 Resultados
 Infelizmente, as 2 ferramentas não conseguiram entregar um resultado satisfatório, principalmente pois houve erros graves nos textos exibidos, como repetições de letras e utilização de palavras em diferentes idiomas. 
 
-Exibirei as melhores versões de ambas as plataformas.
+No diretório estão as melhores versões de ambas as plataformas.
 
-Prompts
-Convite CHATGPT
-Convite LEONARDO.AI
-
+[Prompts](/Prompt Convite.docx)
+[Convite CHATGPT](/convite_ChatGPT.webp)
+[Convite LEONARDO.AI](/convite_LeonardoAI.jpg)
 
 ## 💭 Reflexão (Opcional)
 Levo a crer que as ferramentas não estão ainda maduras para combinar elementos de textos e imagens. 
